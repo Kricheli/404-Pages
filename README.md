@@ -2,8 +2,7 @@
 ReCreating Pixar's and Dropbox's error pages using basic HTML & CSS.
 
 
-Used Platforms:
-HTML, CSS.
+
 
 Used Platforms|
 ------------- | 
